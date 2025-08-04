@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd she_can_foundation
+    git clone donation_app_ui
+    cd donation_app_ui
     ```
 
 2.  **Install Flutter dependencies**:
