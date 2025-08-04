@@ -43,6 +43,7 @@ The project uses the following key dependencies:
 -   `animated_flip_counter`: For the animated donation counter.
 -   `flutter_staggered_animations`: For staggered list animations.
 
+<<<<<<< HEAD
 
 ## 📱 App Screenshots
 
@@ -59,6 +60,8 @@ The project uses the following key dependencies:
 ![Announcements](screenshots/announcement_screen.jpg)
 
 
+=======
+>>>>>>> 7bc52d7c6353c189b19df99092eb2086cd4fed4d
 ## Project Structure
 
 ```
